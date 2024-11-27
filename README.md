@@ -7,4 +7,4 @@ Trabalho prático feita por:
 - João Salgado
 - João Neves
 
-Nota: 82% (4.1/5)
+Nota: 82%
